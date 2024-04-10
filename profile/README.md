@@ -1,5 +1,6 @@
-## Hi there 👋
+# dressing-ai
 
+Task management embedded with AI.
 <!--
 
 **Here are some ideas to get you started:**
